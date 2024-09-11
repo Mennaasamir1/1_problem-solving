@@ -4,6 +4,7 @@
 
 int FactorialOfNum(int);
 int PowerOfNum(int, int);
+int SimpleCalc(int, int, char);
 
 
 #endif
