@@ -1,10 +1,14 @@
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdio.h>
+#include <math.h>
+#include <stdbool.h>
+#define TRUE  = 1
+#define FALSE  = 0
 
 int FactorialOfNum(int);
 int PowerOfNum(int, int);
-int SimpleCalc(int, int, char);
-
+void SimpleCalc(int, int, char);
+int IsPrimeNum(int);
 
 #endif

@@ -1,6 +1,11 @@
 #include "main.h"
-
-int SimpleCalc(int num1, int num2, char op)
+/**
+ * SimpleCalc - function that handles simple calculations.
+ * @num1: first number
+ * @num2: second number
+ * @op: operator
+ */
+void SimpleCalc(int num1, int num2, char op)
 {
     float ans;
 
