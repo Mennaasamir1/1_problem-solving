@@ -10,5 +10,6 @@ int FactorialOfNum(int);
 int PowerOfNum(int, int);
 void SimpleCalc(int, int, char);
 int IsPrimeNum(int);
+void Day_hour_min_sec(int);
 
 #endif
