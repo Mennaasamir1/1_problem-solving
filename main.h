@@ -11,5 +11,7 @@ int PowerOfNum(int, int);
 void SimpleCalc(int, int, char);
 int IsPrimeNum(int);
 void Day_hour_min_sec(int);
+int Loan_Installment(int, int);
+
 
 #endif
